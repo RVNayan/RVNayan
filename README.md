@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @RVNayan
-Nuff Said
+- 👋 Hi, I’m @RVNayan.
+- Nuff Said
 
 <!---
 RVNayan/RVNayan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
