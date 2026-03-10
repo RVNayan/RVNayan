@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 ### Some Random Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RVNayan&show_icons=true&theme=tokyonight&hide_border=true" alt="nayan's github stats"/>
+<h>My github stats</h>
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RVNayan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<h>Top Languages</h>
 </p>
 
 ---
